@@ -133,9 +133,9 @@ docutils==0.21.2 \
     # via
     #   myst-parser
     #   sphinx
-furo==2024.8.6 \
-    --hash=sha256:6cd97c58b47813d3619e63e9081169880fbe331f0ca883c871ff1f3f11814f5c \
-    --hash=sha256:b63e4cee8abfc3136d3bc03a3d45a76a850bada4d6374d24c1716b0e01394a01
+furo==2025.9.25 \
+    --hash=sha256:2937f68e823b8e37b410c972c371bc2b1d88026709534927158e0cb3fac95afe \
+    --hash=sha256:3eac05582768fdbbc2bdfa1cdbcdd5d33cfc8b4bd2051729ff4e026a1d7e0a98
     # via -r requirements.txt
 idna==3.10 \
     --hash=sha256:12f65c9b470abda6dc35cf8e63cc574b1c52b11df2c86030af0ac09b01b13ea9 \
